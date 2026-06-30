@@ -176,8 +176,3 @@ outputs/
 
 ---
 
-## 👤 Author
-
-Dhanush N
-
-AI / Machine Learning Project
